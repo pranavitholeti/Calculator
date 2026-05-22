@@ -12,7 +12,6 @@ It also includes:
 - Dark theme UI
 - Delete button
 - Clear button
-- Hover effects
 
 ---
 
